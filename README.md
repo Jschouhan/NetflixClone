@@ -27,7 +27,7 @@ A feature-rich Netflix Clone built using **React** and **Firebase**, offering a 
 
 ## Live Demo
 
-Try the live application : 
+Try the live application : https://netflix-clone-silk-psi-70.vercel.app/
 ---
 
 ## How to Run the Code
